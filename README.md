@@ -17,7 +17,7 @@ Download [msiProcessor.m](msiProcessor.m) and [msiProcessor_Guide.jpg](msiProces
 ## Authors
 
 * **Wei-Yu Lee** - *Initial work* - [lees890119](https://github.com/lees890119)
-* **Ying-chen Huang** - *Initial work* - [email](mailto:yinx8306@gmail/com)
+* **Ying-chen Huang** - *Initial work* - [contact](mailto:yinx8306@gmail/com)
 
 ## License
 
