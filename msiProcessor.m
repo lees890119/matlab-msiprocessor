@@ -1,5 +1,9 @@
 % MSIPROCESSOR Read and process mzXML files for data aquisition
 
+%
+% Copyright 2019 Wei-Yu Lee
+% Licensed under the MIT license
+
 function msiProcessor
 %% Start of the main function
 
